@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on [js-datavisualisation](https://github.com/FrancisNtahimpera/js-datavisualisation-challenge)
 
-- 🌱 I’m currently learning **Node.jst**
+- 🌱 I’m currently learning **Node.js**
 
  
 
