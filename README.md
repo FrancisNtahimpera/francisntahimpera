@@ -27,9 +27,9 @@
 ## In progress...
 
 
-- 🔭 I’m currently working on [Cookie Clicker](https://marinellv.github.io/Cookie-clicker/)
+- 🔭 I’m currently working on [js-datavisualisation](https://github.com/FrancisNtahimpera/js-datavisualisation-challenge)
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **Node.jst**
 
  
 
@@ -41,7 +41,7 @@
  <h3 align="left">Some sTATS:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francisntahimpera&show_icons=true&locale=en&layout=compact" alt="francisntahimpera" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=FrancisNtahimpera&show_icons=true&theme=synthwave" alt="francisntahimpera" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=FrancisNtahimpera&show_icons=true&theme=synthwave" alt="francisntahimpera" /></p>
 
  
 
