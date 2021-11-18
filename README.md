@@ -27,9 +27,9 @@
 ## In progress...
 
 
-- 🔭 I’m currently working on [js-datavisualisation](https://github.com/FrancisNtahimpera/js-datavisualisation-challenge)
+- 🔭 I’m currently working on LEAR TO LEARN
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **PHP, MYSQL & DDOCKER**
 
  
 
