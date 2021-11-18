@@ -27,7 +27,7 @@
 ## In progress...
 
 
-- 🔭 I’m currently working on LEAR TO LEARN
+- 🔭 I’m currently working on LEARN TO LEARN
 
 - 🌱 I’m currently learning **PHP, MYSQL & DDOCKER**
 
