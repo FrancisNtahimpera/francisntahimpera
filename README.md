@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on LEARN TO LEARN
 
-- 🌱 I’m currently learning **Python** and **React**.
+- 🌱 I’m currently learning **Laravel** and **React**.
 
  
 
