@@ -45,25 +45,25 @@
 <a href="https://www.linkedin.com/in/francis-ntahimpera-a28a56220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francis ntahimpera" height="30" width="40" /></a>
   <p> 📫   *ntahimperafrancis@gmail.com* </p>
 </p>
- <h3 align="left">Some sTATS:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francisntahimpera&show_icons=true&locale=en&layout=compact" alt="francisntahimpera" /></p>
+ <h3 align="left">Some sTATS:</h3><p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francisntahimpera&show_icons=true&locale=en&layout=compact" alt="francisntahimpera" /></p> 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=FrancisNtahimpera&show_icons=true&theme=synthwave" alt="francisntahimpera" /></p>  
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=FrancisNtahimpera&show_icons=true&theme=synthwave" alt="francisntahimpera" /></p>  </p>
 
 
 
-### Some Frameworks
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 
-### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
  
 
-### Container & Deployement
+
 <a href="https://www.docker.com/" target="blank">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) </a>![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-### The Technologies I want to learn
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
