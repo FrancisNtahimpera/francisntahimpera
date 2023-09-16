@@ -14,8 +14,10 @@
  <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/> </a>
  <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a>
  <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=ansible" alt="ansible" width="40" height="40"/> </a>
- <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=terraform" alt="terraform" width="40" height="40"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
+ <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="js" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> 
+  <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a>
+ <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="azure" width="40" height="40"/> </a></p>
 
@@ -47,7 +49,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/francis-ntahimpera-a28a56220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francis ntahimpera" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/francis-ntahimpera-a28a56220/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="francis ntahimpera" height="30" width="40" /></a>
   <p> 📫   *ntahimperafrancis@gmail.com* </p>
 </p>
  <h3 align="left">Some sTATS:</h3><p>
@@ -55,21 +57,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=FrancisNtahimpera&show_icons=true&theme=synthwave" alt="francisntahimpera" /></p>  </p>
 
-
-
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
- 
-
-
-<a href="https://www.docker.com/" target="blank">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) </a>![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
  
