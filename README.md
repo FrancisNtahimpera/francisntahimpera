@@ -10,7 +10,12 @@
 
 
 
-<p align="center"> <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
+<p align="center"> <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
+ <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/> </a>
+ <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a>
+ <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=ansible" alt="ansible" width="40" height="40"/> </a>
+ <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=terraform" alt="terraform" width="40" height="40"/> </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
 <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="azure" width="40" height="40"/> </a></p>
 
